@@ -63,8 +63,8 @@ g++ phonebook.cpp -o phonebook
 ```
 ## 📁 Project Structure
 
-Phonebook-CPP/
-│── phonebook.cpp # Main source code 
-│── README.md # Project documentation 
-│── .gitignore # Ignored files 
-│── phone_book.txt # Data file (ignored on GitHub) 
+Phonebook-CPP/<br>
+│── phonebook.cpp # Main source code <br>
+│── README.md # Project documentation <br>
+│── .gitignore # Ignored files <br>
+│── phone_book.txt # Data file (ignored on GitHub) <br>
