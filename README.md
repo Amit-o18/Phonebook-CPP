@@ -60,6 +60,15 @@ g++ phonebook.cpp -o phonebook
 - The data file is ignored on GitHub to protect user data
 
 ---
+## ⚙️ How It Works (Internals)
+
+- Contacts are stored in a `vector<Contact>` in memory
+- Data is loaded from `phone_book.txt` when the program starts
+- New contacts are inserted in sorted order by phone number
+- Binary search is used for fast number lookup
+- Case-insensitive and partial matching is used for name search
+- After add/update/delete, data is saved back to the file
+---
 ```
 ## 📁 Project Structure
 
