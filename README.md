@@ -41,10 +41,18 @@ Run the program
 
 ---
 
-## 2️⃣ Add “How Data Is Stored” (Very Useful)
+## ▶️ How to Run the Project
 
-Add this small section after Features:
+1. Clone the repository
+```bash
+git clone https://github.com/Amit-018/Phonebook-CPP.git
+cd Phonebook-CPP
+g++ phonebook.cpp -o phonebook
+./phonebook
 
+---
+
+### 💾 Data Storage
 ```md
 ## 💾 Data Storage
 
@@ -52,31 +60,10 @@ Add this small section after Features:
 - Data is loaded into memory when the program starts
 - Data is saved back to the file after add, update, or delete operations
 - The data file is ignored on GitHub to protect user data
-
-## 🎯 Learning Outcomes
-
-- Implemented OOP concepts in a real project
-- Learned file persistence vs memory storage
-- Used binary search on sorted data
-- Improved string handling and searching techniques
-- Gained experience with Git and GitHub
-
-
-## 🛠️ Technologies Used
-
-- **C++**
-- **OOP (Classes & Objects)**
-- **STL (vector)**
-- **File Handling (fstream)**
-- **Binary Search Algorithm**
-- **String manipulation**
-
----
-
 ## 📂 Project Structure
 
-Phonebook-CPP/<br>
-│── phonebook.cpp # Main source code<br>
-│── README.md # Project documentation<br>
-│── .gitignore # Ignored files<br>
-│── phone_book.txt # Data file (ignored on GitHub)<br>
+Phonebook-CPP/
+│── phonebook.cpp # Main source code ```
+│── README.md # Project documentation ```
+│── .gitignore # Ignored files ```
+│── phone_book.txt # Data file (ignored on GitHub) ```
