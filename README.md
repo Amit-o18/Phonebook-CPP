@@ -60,9 +60,8 @@ g++ phonebook.cpp -o phonebook
 - The data file is ignored on GitHub to protect user data
 
 ---
-
-## 📂 Project Structure
-
+```
+## 📁 Project Structure
 
 Phonebook-CPP/
 │── phonebook.cpp # Main source code 
