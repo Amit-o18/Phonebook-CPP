@@ -35,7 +35,7 @@ A **console-based Phonebook Management System** developed in **C++** using **Obj
 ## 📂 Project Structure
 
 Phonebook-CPP/
-│── phonebook.cpp # Main source code
-│── README.md # Project documentation
-│── .gitignore # Ignored files
-│── phone_book.txt # Data file (ignored on GitHub)
+│── phonebook.cpp # Main source code<br>
+│── README.md # Project documentation<br>
+│── .gitignore # Ignored files<br>
+│── phone_book.txt # Data file (ignored on GitHub)<br>
