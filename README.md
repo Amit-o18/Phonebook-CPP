@@ -52,18 +52,20 @@ g++ phonebook.cpp -o phonebook
 
 ---
 
-### 💾 Data Storage
-```md
 ## 💾 Data Storage
 
 - Contact data is stored in a text file (`phone_book.txt`)
 - Data is loaded into memory when the program starts
 - Data is saved back to the file after add, update, or delete operations
 - The data file is ignored on GitHub to protect user data
+
+---
+
 ## 📂 Project Structure
 
+
 Phonebook-CPP/
-│── phonebook.cpp # Main source code ```
-│── README.md # Project documentation ```
-│── .gitignore # Ignored files ```
-│── phone_book.txt # Data file (ignored on GitHub) ```
+│── phonebook.cpp # Main source code 
+│── README.md # Project documentation 
+│── .gitignore # Ignored files 
+│── phone_book.txt # Data file (ignored on GitHub) 
